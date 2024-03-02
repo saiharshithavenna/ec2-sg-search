@@ -1,0 +1,32 @@
+2024-02-28 16:36:03,609 - INFO - Attempting to retrieve product details for ASIN: B078YHJSQW
+2024-02-28 16:36:03,665 - WARNING - Product not found for ASIN: B078YHJSQW
+2024-02-28 17:52:43,340 - INFO - Inserted product details for ASIN B078YHJSQW into MongoDB
+2024-02-28 17:52:43,343 - INFO - ASIN: B078YHJSQW, Response Time: 7.26 seconds
+2024-02-28 18:13:46,895 - ERROR - Error processing product details for ASIN "B08H5NYC67": 'products'
+2024-02-28 18:13:46,896 - INFO - Retrying request for ASIN "B08H5NYC67"... Attempt 1/3
+2024-02-28 18:15:07,557 - ERROR - Error processing product details for ASIN "B08H5NYC67": 'products'
+2024-02-28 18:15:07,557 - INFO - Retrying request for ASIN "B08H5NYC67"... Attempt 2/3
+2024-02-28 18:16:28,220 - ERROR - Error processing product details for ASIN "B08H5NYC67": 'products'
+2024-02-28 18:16:28,220 - ERROR - Max retries exceeded for ASIN "B08H5NYC67". Unable to fetch product details.
+2024-02-28 18:21:54,895 - ERROR - Error processing product details for ASIN h: 'products'
+2024-02-28 18:21:54,895 - INFO - Retrying request for ASIN h... Attempt 1/3
+2024-02-28 18:23:15,784 - ERROR - Error processing product details for ASIN h: 'products'
+2024-02-28 18:23:15,784 - INFO - Retrying request for ASIN h... Attempt 2/3
+2024-02-28 18:24:36,517 - ERROR - Error processing product details for ASIN h: 'products'
+2024-02-28 18:24:36,518 - ERROR - Max retries exceeded for ASIN h. Unable to fetch product details.
+2024-02-28 18:24:37,266 - ERROR - Error processing product details for ASIN h: 'products'
+2024-02-28 18:24:37,266 - INFO - Retrying request for ASIN h... Attempt 1/3
+2024-02-28 18:25:57,924 - ERROR - Error processing product details for ASIN h: 'products'
+2024-02-28 18:25:57,924 - INFO - Retrying request for ASIN h... Attempt 2/3
+2024-02-28 18:27:18,800 - ERROR - Error processing product details for ASIN h: 'products'
+2024-02-28 18:27:18,800 - ERROR - Max retries exceeded for ASIN h. Unable to fetch product details.
+2024-02-28 18:27:26,612 - INFO - Inserted product details for ASIN B08VT9P2WQ into MongoDB
+2024-02-28 18:27:26,614 - INFO - ASIN: B08VT9P2WQ, Response Time: 1.41 seconds
+2024-02-29 11:10:38,075 - INFO - Inserted product details for ASIN B0821PN8L4 into MongoDB
+2024-02-29 11:10:38,080 - INFO - ASIN: B0821PN8L4, Response Time: 5.85 seconds
+2024-02-29 11:11:40,642 - INFO - Inserted product details for ASIN B08YD596KL into MongoDB
+2024-02-29 11:11:40,643 - INFO - ASIN: B08YD596KL, Response Time: 2.92 seconds
+2024-02-29 11:24:17,253 - INFO - Inserted product details for ASIN B01LWYDEQ7 into MongoDB
+2024-02-29 11:24:17,253 - INFO - ASIN: B01LWYDEQ7, Response Time: 2.99 seconds
+2024-02-29 11:42:36,044 - INFO - Inserted product details for ASIN B08YD4BNHB into MongoDB
+2024-02-29 11:42:36,044 - INFO - ASIN: B08YD4BNHB, Response Time: 4.80 seconds
