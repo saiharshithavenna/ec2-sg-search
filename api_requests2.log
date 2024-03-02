@@ -2453,3 +2453,155 @@
 2024-03-02 16:33:22,269 - ERROR - Error fetching product details for ASIN B0BWYTRR5N: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B0BWYTRR5N&stats=180&offers=40
 2024-03-02 16:34:48,495 - INFO - Inserted product details for ASIN B0BWYWWRHQ into MongoDB
 2024-03-02 16:34:48,495 - INFO - ASIN: B0BWYWWRHQ, Response Time: 6.18 seconds
+2024-03-02 16:34:54,235 - INFO - Inserted product details for ASIN B0B8DYD4H4 into MongoDB
+2024-03-02 16:34:54,235 - INFO - ASIN: B0B8DYD4H4, Response Time: 5.64 seconds
+2024-03-02 16:35:01,259 - INFO - Inserted product details for ASIN B09BL7LZ3R into MongoDB
+2024-03-02 16:35:01,259 - INFO - ASIN: B09BL7LZ3R, Response Time: 6.98 seconds
+2024-03-02 16:35:06,431 - INFO - Inserted product details for ASIN B0BWYZCWHY into MongoDB
+2024-03-02 16:35:06,431 - INFO - ASIN: B0BWYZCWHY, Response Time: 5.04 seconds
+2024-03-02 16:35:12,560 - INFO - Inserted product details for ASIN B0BWYX95SZ into MongoDB
+2024-03-02 16:35:12,560 - INFO - ASIN: B0BWYX95SZ, Response Time: 6.09 seconds
+2024-03-02 16:35:19,797 - INFO - Inserted product details for ASIN B0B8DYQLYJ into MongoDB
+2024-03-02 16:35:19,797 - INFO - ASIN: B0B8DYQLYJ, Response Time: 7.14 seconds
+2024-03-02 16:35:26,334 - INFO - Inserted product details for ASIN B0B8DTYXSG into MongoDB
+2024-03-02 16:35:26,334 - INFO - ASIN: B0B8DTYXSG, Response Time: 6.49 seconds
+2024-03-02 16:35:27,301 - ERROR - Error fetching product details for ASIN B082F9LTRR: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B082F9LTRR&stats=180&offers=40
+2024-03-02 16:36:53,390 - INFO - Inserted product details for ASIN B0BWYW7B85 into MongoDB
+2024-03-02 16:36:53,390 - INFO - ASIN: B0BWYW7B85, Response Time: 6.01 seconds
+2024-03-02 16:36:58,822 - INFO - Inserted product details for ASIN B0842TRGXV into MongoDB
+2024-03-02 16:36:58,822 - INFO - ASIN: B0842TRGXV, Response Time: 5.39 seconds
+2024-03-02 16:37:05,709 - INFO - Inserted product details for ASIN B08KGTYJ6C into MongoDB
+2024-03-02 16:37:05,709 - INFO - ASIN: B08KGTYJ6C, Response Time: 6.76 seconds
+2024-03-02 16:37:12,967 - INFO - Inserted product details for ASIN B08KGXB39X into MongoDB
+2024-03-02 16:37:12,967 - INFO - ASIN: B08KGXB39X, Response Time: 7.21 seconds
+2024-03-02 16:37:19,258 - INFO - Inserted product details for ASIN B08KGHGQV4 into MongoDB
+2024-03-02 16:37:19,258 - INFO - ASIN: B08KGHGQV4, Response Time: 6.25 seconds
+2024-03-02 16:37:33,852 - INFO - Inserted product details for ASIN B08KGHHDCK into MongoDB
+2024-03-02 16:37:33,852 - INFO - ASIN: B08KGHHDCK, Response Time: 14.56 seconds
+2024-03-02 16:37:35,299 - ERROR - Error fetching product details for ASIN B08KGSV6DB: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B08KGSV6DB&stats=180&offers=40
+2024-03-02 16:39:02,044 - INFO - Inserted product details for ASIN B08KGS2Z78 into MongoDB
+2024-03-02 16:39:02,045 - INFO - ASIN: B08KGS2Z78, Response Time: 6.66 seconds
+2024-03-02 16:39:07,951 - INFO - Inserted product details for ASIN B08KGTT2LW into MongoDB
+2024-03-02 16:39:07,951 - INFO - ASIN: B08KGTT2LW, Response Time: 5.81 seconds
+2024-03-02 16:39:13,461 - INFO - Inserted product details for ASIN B08KGTTKZ9 into MongoDB
+2024-03-02 16:39:13,461 - INFO - ASIN: B08KGTTKZ9, Response Time: 5.46 seconds
+2024-03-02 16:39:19,538 - INFO - Inserted product details for ASIN B08KGXP2S4 into MongoDB
+2024-03-02 16:39:19,538 - INFO - ASIN: B08KGXP2S4, Response Time: 6.04 seconds
+2024-03-02 16:39:27,641 - INFO - Inserted product details for ASIN B08KGV4Y8L into MongoDB
+2024-03-02 16:39:27,641 - INFO - ASIN: B08KGV4Y8L, Response Time: 7.99 seconds
+2024-03-02 16:39:33,787 - INFO - Inserted product details for ASIN B08KGSF76R into MongoDB
+2024-03-02 16:39:33,787 - INFO - ASIN: B08KGSF76R, Response Time: 6.08 seconds
+2024-03-02 16:39:39,691 - INFO - Inserted product details for ASIN B08KGP7YSJ into MongoDB
+2024-03-02 16:39:39,691 - INFO - ASIN: B08KGP7YSJ, Response Time: 5.80 seconds
+2024-03-02 16:39:41,072 - ERROR - Error fetching product details for ASIN B08KGTY1XV: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B08KGTY1XV&stats=180&offers=40
+2024-03-02 16:41:07,928 - INFO - Inserted product details for ASIN B08KGQ455C into MongoDB
+2024-03-02 16:41:07,928 - INFO - ASIN: B08KGQ455C, Response Time: 6.69 seconds
+2024-03-02 16:41:13,936 - INFO - Inserted product details for ASIN B08KGNW34J into MongoDB
+2024-03-02 16:41:13,937 - INFO - ASIN: B08KGNW34J, Response Time: 5.96 seconds
+2024-03-02 16:41:19,877 - INFO - Inserted product details for ASIN B08KGQ8Q4L into MongoDB
+2024-03-02 16:41:19,877 - INFO - ASIN: B08KGQ8Q4L, Response Time: 5.84 seconds
+2024-03-02 16:41:26,331 - INFO - Inserted product details for ASIN B08KGS3RVK into MongoDB
+2024-03-02 16:41:26,337 - INFO - ASIN: B08KGS3RVK, Response Time: 6.38 seconds
+2024-03-02 16:41:36,342 - INFO - Inserted product details for ASIN B0BWYXPK1P into MongoDB
+2024-03-02 16:41:36,342 - INFO - ASIN: B0BWYXPK1P, Response Time: 9.92 seconds
+2024-03-02 16:41:42,918 - INFO - Inserted product details for ASIN B0BWYXVH28 into MongoDB
+2024-03-02 16:41:42,918 - INFO - ASIN: B0BWYXVH28, Response Time: 6.46 seconds
+2024-03-02 16:41:50,194 - INFO - Inserted product details for ASIN B0BS3Y71L9 into MongoDB
+2024-03-02 16:41:50,194 - INFO - ASIN: B0BS3Y71L9, Response Time: 7.18 seconds
+2024-03-02 16:41:51,477 - ERROR - Error fetching product details for ASIN B08F2SYJ6S: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B08F2SYJ6S&stats=180&offers=40
+2024-03-02 16:43:17,636 - INFO - Inserted product details for ASIN B07CXR5HL2 into MongoDB
+2024-03-02 16:43:17,636 - INFO - ASIN: B07CXR5HL2, Response Time: 6.05 seconds
+2024-03-02 16:43:25,926 - INFO - Inserted product details for ASIN B08KGCQ497 into MongoDB
+2024-03-02 16:43:25,926 - INFO - ASIN: B08KGCQ497, Response Time: 8.19 seconds
+2024-03-02 16:43:32,274 - INFO - Inserted product details for ASIN B09CGZDK8Q into MongoDB
+2024-03-02 16:43:32,274 - INFO - ASIN: B09CGZDK8Q, Response Time: 6.25 seconds
+2024-03-02 16:43:42,415 - INFO - Inserted product details for ASIN B08KGPX9T4 into MongoDB
+2024-03-02 16:43:42,415 - INFO - ASIN: B08KGPX9T4, Response Time: 10.04 seconds
+2024-03-02 16:43:49,744 - INFO - Inserted product details for ASIN B08KGWD1N6 into MongoDB
+2024-03-02 16:43:49,744 - INFO - ASIN: B08KGWD1N6, Response Time: 7.23 seconds
+2024-03-02 16:43:51,706 - INFO - Inserted product details for ASIN B092ZRFV52 into MongoDB
+2024-03-02 16:43:51,706 - INFO - ASIN: B092ZRFV52, Response Time: 1.92 seconds
+2024-03-02 16:43:59,221 - INFO - Inserted product details for ASIN B08KGSFGYJ into MongoDB
+2024-03-02 16:43:59,221 - INFO - ASIN: B08KGSFGYJ, Response Time: 7.47 seconds
+2024-03-02 16:44:00,891 - ERROR - Error fetching product details for ASIN B08KGP2M59: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B08KGP2M59&stats=180&offers=40
+2024-03-02 16:45:32,602 - INFO - Inserted product details for ASIN B08KGNTQJS into MongoDB
+2024-03-02 16:45:32,602 - INFO - ASIN: B08KGNTQJS, Response Time: 11.57 seconds
+2024-03-02 16:45:39,466 - INFO - Inserted product details for ASIN B08KGWWTZX into MongoDB
+2024-03-02 16:45:39,466 - INFO - ASIN: B08KGWWTZX, Response Time: 6.76 seconds
+2024-03-02 16:45:45,493 - INFO - Inserted product details for ASIN B08KGS9QWB into MongoDB
+2024-03-02 16:45:45,493 - INFO - ASIN: B08KGS9QWB, Response Time: 5.93 seconds
+2024-03-02 16:45:46,834 - ERROR - Error fetching product details for ASIN B08KGH585C: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B08KGH585C&stats=180&offers=40
+2024-03-02 16:47:22,104 - INFO - Inserted product details for ASIN B08KGHJ2FP into MongoDB
+2024-03-02 16:47:22,104 - INFO - ASIN: B08KGHJ2FP, Response Time: 15.22 seconds
+2024-03-02 16:47:27,700 - INFO - Inserted product details for ASIN B08KGNS762 into MongoDB
+2024-03-02 16:47:27,700 - INFO - ASIN: B08KGNS762, Response Time: 5.56 seconds
+2024-03-02 16:47:40,014 - INFO - Inserted product details for ASIN B08KGTZCDB into MongoDB
+2024-03-02 16:47:40,014 - INFO - ASIN: B08KGTZCDB, Response Time: 12.22 seconds
+2024-03-02 16:47:46,147 - INFO - Inserted product details for ASIN B08KGNFXXW into MongoDB
+2024-03-02 16:47:46,147 - INFO - ASIN: B08KGNFXXW, Response Time: 6.08 seconds
+2024-03-02 16:47:52,687 - INFO - Inserted product details for ASIN B08KGWP2MX into MongoDB
+2024-03-02 16:47:52,687 - INFO - ASIN: B08KGWP2MX, Response Time: 6.47 seconds
+2024-03-02 16:47:55,644 - INFO - Inserted product details for ASIN B08PSHLJGL into MongoDB
+2024-03-02 16:47:55,644 - INFO - ASIN: B08PSHLJGL, Response Time: 2.86 seconds
+2024-03-02 16:48:01,853 - INFO - Inserted product details for ASIN B0BD4YRXJC into MongoDB
+2024-03-02 16:48:01,853 - INFO - ASIN: B0BD4YRXJC, Response Time: 6.17 seconds
+2024-03-02 16:48:09,362 - INFO - Inserted product details for ASIN B08KGPKCFT into MongoDB
+2024-03-02 16:48:09,362 - INFO - ASIN: B08KGPKCFT, Response Time: 7.46 seconds
+2024-03-02 16:48:17,585 - INFO - Inserted product details for ASIN B08KGV8Q6K into MongoDB
+2024-03-02 16:48:17,585 - INFO - ASIN: B08KGV8Q6K, Response Time: 8.17 seconds
+2024-03-02 16:48:27,076 - INFO - Inserted product details for ASIN B08KGHJ3KV into MongoDB
+2024-03-02 16:48:27,076 - INFO - ASIN: B08KGHJ3KV, Response Time: 9.44 seconds
+2024-03-02 16:48:33,384 - INFO - Inserted product details for ASIN B08KGHH1Q8 into MongoDB
+2024-03-02 16:48:33,386 - INFO - ASIN: B08KGHH1Q8, Response Time: 6.27 seconds
+2024-03-02 16:48:34,293 - ERROR - Error fetching product details for ASIN B0999KMFQX: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B0999KMFQX&stats=180&offers=40
+2024-03-02 16:49:56,974 - INFO - Inserted product details for ASIN B08PSGG6KZ into MongoDB
+2024-03-02 16:49:56,974 - INFO - ASIN: B08PSGG6KZ, Response Time: 2.54 seconds
+2024-03-02 16:50:03,128 - INFO - Inserted product details for ASIN B09S6V9YLT into MongoDB
+2024-03-02 16:50:03,129 - INFO - ASIN: B09S6V9YLT, Response Time: 6.11 seconds
+2024-03-02 16:50:10,619 - INFO - Inserted product details for ASIN B08KGHHD1Q into MongoDB
+2024-03-02 16:50:10,622 - INFO - ASIN: B08KGHHD1Q, Response Time: 7.27 seconds
+2024-03-02 16:50:17,993 - INFO - Inserted product details for ASIN B075335G7N into MongoDB
+2024-03-02 16:50:17,993 - INFO - ASIN: B075335G7N, Response Time: 7.27 seconds
+2024-03-02 16:50:31,141 - INFO - Inserted product details for ASIN B0CH89LS3S into MongoDB
+2024-03-02 16:50:31,141 - INFO - ASIN: B0CH89LS3S, Response Time: 13.05 seconds
+2024-03-02 16:50:34,187 - INFO - Inserted product details for ASIN B088V1X3H6 into MongoDB
+2024-03-02 16:50:34,187 - INFO - ASIN: B088V1X3H6, Response Time: 3.00 seconds
+2024-03-02 16:50:40,422 - INFO - Inserted product details for ASIN B088TZC4B7 into MongoDB
+2024-03-02 16:50:40,422 - INFO - ASIN: B088TZC4B7, Response Time: 6.19 seconds
+2024-03-02 16:50:42,479 - ERROR - Error fetching product details for ASIN B08KGSX8QF: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B08KGSX8QF&stats=180&offers=40
+2024-03-02 16:52:15,241 - INFO - Inserted product details for ASIN B08KGS1PB4 into MongoDB
+2024-03-02 16:52:15,241 - INFO - ASIN: B08KGS1PB4, Response Time: 12.71 seconds
+2024-03-02 16:52:20,970 - INFO - Inserted product details for ASIN B08KGTN36P into MongoDB
+2024-03-02 16:52:20,978 - INFO - ASIN: B08KGTN36P, Response Time: 5.67 seconds
+2024-03-02 16:52:28,756 - INFO - Inserted product details for ASIN B08KGHHFYP into MongoDB
+2024-03-02 16:52:28,756 - INFO - ASIN: B08KGHHFYP, Response Time: 7.68 seconds
+2024-03-02 16:52:35,144 - INFO - Inserted product details for ASIN B08KGT1YSZ into MongoDB
+2024-03-02 16:52:35,144 - INFO - ASIN: B08KGT1YSZ, Response Time: 6.33 seconds
+2024-03-02 16:52:47,938 - INFO - Inserted product details for ASIN B08KGW2RZ6 into MongoDB
+2024-03-02 16:52:47,938 - INFO - ASIN: B08KGW2RZ6, Response Time: 12.73 seconds
+2024-03-02 16:52:54,766 - INFO - Inserted product details for ASIN B08KGT1LPG into MongoDB
+2024-03-02 16:52:54,766 - INFO - ASIN: B08KGT1LPG, Response Time: 6.76 seconds
+2024-03-02 16:53:00,504 - INFO - Inserted product details for ASIN B08KGV97XT into MongoDB
+2024-03-02 16:53:00,504 - INFO - ASIN: B08KGV97XT, Response Time: 5.63 seconds
+2024-03-02 16:53:05,841 - INFO - Inserted product details for ASIN B08KGVYQHX into MongoDB
+2024-03-02 16:53:05,841 - INFO - ASIN: B08KGVYQHX, Response Time: 5.27 seconds
+2024-03-02 16:53:12,604 - INFO - Inserted product details for ASIN B08KGHHJVM into MongoDB
+2024-03-02 16:53:12,604 - INFO - ASIN: B08KGHHJVM, Response Time: 6.71 seconds
+2024-03-02 16:53:27,859 - INFO - Inserted product details for ASIN B08KGQB7VF into MongoDB
+2024-03-02 16:53:27,859 - INFO - ASIN: B08KGQB7VF, Response Time: 15.21 seconds
+2024-03-02 16:53:39,518 - INFO - Inserted product details for ASIN B08KGSDSD3 into MongoDB
+2024-03-02 16:53:39,518 - INFO - ASIN: B08KGSDSD3, Response Time: 11.62 seconds
+2024-03-02 16:53:40,744 - ERROR - Error fetching product details for ASIN B08KGQ338C: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B08KGQ338C&stats=180&offers=40
+2024-03-02 16:55:06,458 - INFO - Inserted product details for ASIN B0CBCX94B9 into MongoDB
+2024-03-02 16:55:06,458 - INFO - ASIN: B0CBCX94B9, Response Time: 5.64 seconds
+2024-03-02 16:55:12,103 - INFO - Inserted product details for ASIN B0BWYY8G78 into MongoDB
+2024-03-02 16:55:12,111 - INFO - ASIN: B0BWYY8G78, Response Time: 5.54 seconds
+2024-03-02 16:55:18,014 - INFO - Inserted product details for ASIN B0BWYX1NX9 into MongoDB
+2024-03-02 16:55:18,014 - INFO - ASIN: B0BWYX1NX9, Response Time: 5.87 seconds
+2024-03-02 16:55:24,576 - INFO - Inserted product details for ASIN B08KGV5ZX9 into MongoDB
+2024-03-02 16:55:24,584 - INFO - ASIN: B08KGV5ZX9, Response Time: 6.45 seconds
+2024-03-02 16:55:32,369 - INFO - Inserted product details for ASIN B0BP7MKBKH into MongoDB
+2024-03-02 16:55:32,369 - INFO - ASIN: B0BP7MKBKH, Response Time: 7.68 seconds
+2024-03-02 16:55:48,551 - INFO - Inserted product details for ASIN B0BS3X3BT6 into MongoDB
+2024-03-02 16:55:48,551 - INFO - ASIN: B0BS3X3BT6, Response Time: 16.08 seconds
+2024-03-02 16:55:50,007 - ERROR - Error fetching product details for ASIN B08KGNTKB7: 429 Client Error: Too Many Requests for url: https://api.keepa.com/product?key=6h8hgj72pe735gpinf05mvap2hslkcnem3dsrhc9b1j92he253mhls1n4fu1e91l&domain=10&asin=B08KGNTKB7&stats=180&offers=40
